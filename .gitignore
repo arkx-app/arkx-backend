@@ -4,3 +4,6 @@ dist/
 .env.local
 .DS_Store
 supabase/.temp/
+
+# VS Code settings
+.vscode/
